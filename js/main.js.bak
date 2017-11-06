@@ -62,7 +62,7 @@ var viewHeight=function(){
 
 	}
 }
-/*var waited_develop=function(){
+var waited_develop=function(){
     var waitedli=document.getElementsByClassName("nav_bar_ul")[0].children;
     // var waiteda=waitedli.children;
     console.log(waitedli);
@@ -83,7 +83,7 @@ var viewHeight=function(){
             }
         }
     }
-}*/
+}
 var tagSwitch=function() 
 {
 	var navP=document.getElementById("nav_bar");
